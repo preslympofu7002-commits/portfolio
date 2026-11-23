@@ -176,7 +176,7 @@ const AfrimTechnologies: React.FC = () => {
                 boxShadow: '0 0 40px rgba(34,211,238,0.15)',
               }}>
                 <img
-                  src="/afrim-ecosystem.jpg"
+                  src="afrim-ecosystem.jpg"
                   alt="Afrim Technologies Connected Ecosystem - Payments, E-commerce, Finance"
                   loading="lazy"
                   style={{ width: '100%', height: 'auto', display: 'block', objectFit: 'cover' }}

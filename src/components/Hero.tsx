@@ -299,7 +299,7 @@ const Hero: React.FC = () => {
                 Explore My Work
                 <ArrowRight size={16} />
               </button>
-              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-secondary">
+              <a href="resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-secondary">
                 <Download size={15} />
                 Resume
               </a>

@@ -141,7 +141,7 @@ const Navbar: React.FC = () => {
           <a href="https://github.com/preslympofu7002-commits" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="nav-social">
             <GithubIcon size={16} />
           </a>
-          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '0.55rem 1.1rem', fontSize: '0.8rem' }}>
+          <a href="resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '0.55rem 1.1rem', fontSize: '0.8rem' }}>
             <Download size={14} />
             Resume
           </a>
@@ -215,7 +215,7 @@ const Navbar: React.FC = () => {
             <a href="https://github.com/preslympofu7002-commits" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="nav-social" style={{ width: '44px', height: '44px' }}>
               <GithubIcon size={18} />
             </a>
-            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ flex: 1, justifyContent: 'center' }}>
+            <a href="resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ flex: 1, justifyContent: 'center' }}>
               <Download size={15} />
               Download Resume
             </a>

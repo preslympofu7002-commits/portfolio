@@ -28,7 +28,7 @@ export const certificates: Certificate[] = [
     date: '13 Nov 2026',
     code: '11026906',
     category: 'AI',
-    file: '/certificates/intro-ai.pdf',
+    file: 'certificates/intro-ai.pdf',
     description: 'Foundational concepts of Artificial Intelligence, intelligent agents, problem formulation and heuristic search.',
   },
   {
@@ -38,7 +38,7 @@ export const certificates: Certificate[] = [
     date: '14 Nov 2026',
     code: '11032847',
     category: 'ML',
-    file: '/certificates/ml-python.pdf',
+    file: 'certificates/ml-python.pdf',
     description: 'Applied machine learning pipelines in Python, data preprocessing, feature engineering, classification and regression.',
   },
   {
@@ -47,7 +47,7 @@ export const certificates: Certificate[] = [
     issuer: 'MathWorks Training Services',
     date: '14 Nov 2026',
     category: 'ML',
-    file: '/certificates/ml-onramp.pdf',
+    file: 'certificates/ml-onramp.pdf',
     description: 'Supervised machine learning workflows, classification models, feature selection and evaluation in MATLAB.',
   },
   {
@@ -57,7 +57,7 @@ export const certificates: Certificate[] = [
     date: '15 Nov 2026',
     code: '11035220',
     category: 'AI',
-    file: '/certificates/intro-nn.pdf',
+    file: 'certificates/intro-nn.pdf',
     description: 'Perceptrons, multi-layer networks, activation functions, backpropagation and deep learning architectural principles.',
   },
   {
@@ -67,7 +67,7 @@ export const certificates: Certificate[] = [
     date: '17 Nov 2026',
     code: '11041973',
     category: 'AI',
-    file: '/certificates/encoder-decoder.pdf',
+    file: 'certificates/encoder-decoder.pdf',
     description: 'Sequence-to-sequence deep learning models, encoder-decoder design and attention mechanisms for generative tasks.',
   },
   {
@@ -77,7 +77,7 @@ export const certificates: Certificate[] = [
     date: '17 Nov 2026',
     code: '11042119',
     category: 'ML',
-    file: '/certificates/databricks-ml.pdf',
+    file: 'certificates/databricks-ml.pdf',
     description: 'Unified lakehouse architecture, MLflow tracking, collaborative model development and scalable ML data pipelines.',
   },
   {
@@ -87,7 +87,7 @@ export const certificates: Certificate[] = [
     date: '17 Nov 2026',
     code: '11042644',
     category: 'Cloud',
-    file: '/certificates/azure-fundamentals.pdf',
+    file: 'certificates/azure-fundamentals.pdf',
     description: 'Core Microsoft Azure cloud services, cloud security, network architecture, storage and cloud compute foundations.',
   },
   {
@@ -97,7 +97,7 @@ export const certificates: Certificate[] = [
     date: '17 Nov 2026',
     code: '11042589',
     category: 'AI',
-    file: '/certificates/gemini-drive.pdf',
+    file: 'certificates/gemini-drive.pdf',
     description: 'Generative AI productivity workflows with Google Gemini AI integrated across workspace collaboration environments.',
   },
   {
@@ -107,7 +107,7 @@ export const certificates: Certificate[] = [
     date: '19 Nov 2026',
     code: '11052085',
     category: 'Cloud',
-    file: '/certificates/google-cloud-ai.pdf',
+    file: 'certificates/google-cloud-ai.pdf',
     description: 'Google Cloud Vertex AI, Vision AI, Natural Language processing APIs, and enterprise AI solution design.',
   },
   {
@@ -116,7 +116,7 @@ export const certificates: Certificate[] = [
     issuer: 'MathWorks Training Services',
     date: '12 Nov 2026',
     category: 'General',
-    file: '/certificates/matlab-onramp.pdf',
+    file: 'certificates/matlab-onramp.pdf',
     description: 'Computational programming, numerical matrix analysis, data visualisation and algorithm prototyping in MATLAB.',
   },
 ];
